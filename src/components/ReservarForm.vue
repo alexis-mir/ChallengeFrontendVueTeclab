@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="my-5">
     <h1>Reservar</h1>
 
     <b-form inline>

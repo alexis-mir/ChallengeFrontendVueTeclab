@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="my-5">
     <b-table :items="reservas" :fields="fields" head-variant="light">
       <template #cell(date)="data">
         {{ formatDate(data.item.date) }}

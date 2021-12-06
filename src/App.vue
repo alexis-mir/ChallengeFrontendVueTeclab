@@ -8,7 +8,7 @@
 
 <script>
 import ReservarForm from "./components/ReservarForm.vue";
-import TimeLine from "./components/TimeLine/TimeLine.vue";
+import TimeLine from "./components/TimeLine.vue";
 import TablaReservas from "./components/TablaReservas.vue";
 
 export default {
