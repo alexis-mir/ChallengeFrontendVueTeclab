@@ -21,6 +21,7 @@
 <script>
 import { mapState, mapMutations } from "vuex";
 import moment from "moment";
+moment.locale("es");
 
 export default {
   data() {

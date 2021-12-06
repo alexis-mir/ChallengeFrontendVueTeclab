@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Vuex from "vuex";
 import moment from "moment";
+moment.locale("es");
 
 Vue.use(Vuex);
 
